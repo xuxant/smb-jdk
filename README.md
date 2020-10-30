@@ -1,7 +1,7 @@
 
 SMB Mount Container based on `mumiehub/smb-mount` Docker Container. 
 
-I have changed the alpine base image that the author used to alpine jdk 13 image. All the credit goes to [Author](!https://github.com/Mumie-hub/docker-services/tree/master/smb-mount)
+I have changed the alpine base image that the author used to alpine jdk 13 image. All the credit goes to [Author](https://github.com/Mumie-hub/docker-services/tree/master/smb-mount)
 
 ---
 
